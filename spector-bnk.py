@@ -6,10 +6,10 @@ import json
 import datetime
 import twitter
 
-auth = twitter.OAuth(consumer_key="YfHbXRcyQqpQSOSmDccSUrkYI",
-consumer_secret="W0DBfu138fEbg21rwGB83RTPE9TP0Y7Lq5HcaER1ZzzNa4inH8",
-token="956368999696154625-sn6OsA5B9V9ast1OmAOiDts5bgkTe7a",
-token_secret="9hYjHVGgBZnKHtpii8JBMDJhs0kegjgCwBr3sgMxDDVwr")
+auth = twitter.OAuth(consumer_key="**",
+consumer_secret="**",
+token="**",
+token_secret="**")
 
 #URL
 URL = {'spector_bnk':'https://spectrocoin.com/scapi/ticker/JPY/BNK'}
