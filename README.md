@@ -1,2 +1,2 @@
 # bankera-py
-bankera
+bankeraの価格を取得する為
